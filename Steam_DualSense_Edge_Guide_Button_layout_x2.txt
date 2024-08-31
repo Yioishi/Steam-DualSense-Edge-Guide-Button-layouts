@@ -12,15 +12,8 @@
 ║ □ {
 ║ Command 1 = "Right Mouse Button";
 ║ Command 2 = "Show Keyboard" (Long Press t=300);
-║ 	X 						= 	"Left Mouse Button";
-║ 	O 						= 	"Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
-║  		↳ O 				= 	"D Key";
-║ 	□ {
-║ 		Command 1 	= 	"Right Mouse Button";
-║ 		Command 2 	= 	"Show Keyboard" (Long Press t=300);
 ║ }
 ║ ∆ = "Escape Key";
-║ 	∆ 						= 	"Escape Key";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                      ╔***BUMPERS***╗
