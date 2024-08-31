@@ -13,7 +13,7 @@
 ║ 	Command 1	=	"Right Mouse Button";
 ║ 	Command 2	=	"Show Keyboard" (Long Press t=300);
 ║ }
-║ ∆    =	"Escape Key";
+║ ∆	=	"Escape Key";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                      ╔***BUMPERS***╗
@@ -148,7 +148,9 @@
 ║║ 	Command 1 	= 	"Right Mouse Button";
 ║║ 	Command 2 	=	"Show Keyboard" (Long Press);
 ║║ }
-║║ ∆ = "Middle Mouse Button";
+║║ ∆ {
+║║	Command 1	= 	"Middle Mouse Button";
+║║ }
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
 ║
 ║                                    ╔***BUMPERS***╗
