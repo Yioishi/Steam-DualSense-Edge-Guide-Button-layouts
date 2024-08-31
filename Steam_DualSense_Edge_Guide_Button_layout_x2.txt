@@ -10,8 +10,8 @@
 ║ 	O    = 	"Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
 ║  		↳ O    = 	"D Key";
 ║ 	□ {
-║ 		Command 1 	= 	"Right Mouse Button";
-║ 		Command 2 	= 	"Show Keyboard" (Long Press t=300);
+║    Command 1 	= 	"Right Mouse Button";
+║    Command 2 	= 	"Show Keyboard" (Long Press t=300);
 ║ }
 ║ 	∆ 						= 	"Escape Key";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
@@ -19,7 +19,7 @@
                                      ╔***BUMPERS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ L1 {
-║    Command 1 	=  "Scroll Wheel Up" (Interruptible);
+║    Command 1 	= "Scroll Wheel Up" (Interruptible);
 ║    Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ║ L2{
