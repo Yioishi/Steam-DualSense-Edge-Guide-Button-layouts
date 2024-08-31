@@ -6,70 +6,98 @@
                                       ╔***Buttons***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ FACE BUTTONS behaviour = "Button Pad";
-║  X    = 	"Left Mouse Button";
-║  O    = 	"Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
-║  ↳ O    = 	"D Key";
-║  □ {
-║    Command 1 	=  "Right Mouse Button";
-║    Command 2 	=  "Show Keyboard" (Long Press t=300);
+║ X = "Left Mouse Button";
+║ O = "Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
+║  ↳ O = "D Key";
+║ □ {
+║ Command 1 = "Right Mouse Button";
+║ Command 2 = "Show Keyboard" (Long Press t=300);
+║ 	X 						= 	"Left Mouse Button";
+║ 	O 						= 	"Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
+║  		↳ O 				= 	"D Key";
+║ 	□ {
+║ 		Command 1 	= 	"Right Mouse Button";
+║ 		Command 2 	= 	"Show Keyboard" (Long Press t=300);
 ║ }
-║  ∆    =    "Escape Key";
+║ ∆ = "Escape Key";
+║ 	∆ 						= 	"Escape Key";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                      ╔***BUMPERS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ L1 {
-║    Command 1 	= "Scroll Wheel Up" (Interruptible);
-║    Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
+║ Command 1 =  "Scroll Wheel Up" (Interruptible);
+║ Command 2 = "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
+║ 		Command 1 	=  "Scroll Wheel Up" (Interruptible);
+║ 		Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ║ L2{
-║    Command 1 	= "Scroll Wheel Down" (Interruptible);
-║    Command 2 	= "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
+║ Command 1 = "Scroll Wheel Down" (Interruptible);
+║ Command 2 = "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
+║ 		Command 1 	= "Scroll Wheel Down" (Interruptible);
+║ 		Command 2 	= "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                     ╔***BACK GRIPS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
-║ FnL			=			"Left Mouse Click";
-║ FnR			=			"Right Mouse Click";
-║ L🅱️			=			"Shift";
-║ R🅱️			=			"CTRL";
+║ FnL = "Left Mouse Click";
+║ FnR = "Right Mouse Click";
+║ L🅱️ = "Shift";
+║ R🅱️ = "CTRL";
+║ FnL							=			"Left Mouse Click";
+║ FnR							=			"Right Mouse Click";
+║ L🅱️							=			"Shift";
+║ R🅱️							=			"CTRL";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                    ╔***MENU BUTTONS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ SHARE {
-║    Command 1  =  "Windows Key" (Start Press, Toggle);
-║    Command 2  =  "Down Arrow Key" (Fire Start Delay t=50);
+║ Command 1 = "Windows Key" (Start Press, Toggle);
+║ Command 2 = "Down Arrow Key" (Fire Start Delay t=50);
+║ 		Command 1		=			"Windows Key" (Start Press, Toggle);
+║ 		Command 2		=			"Down Arrow Key" (Fire Start Delay t=50);
 ║ }
 ║
 ║ OPTIONS {
-║    Command 1  =  "Alt Key" (Start Press, Toggle);
-║    Command 2  =  "Shift Key" (Button Chord R1, Fire Start Delay t=50);
-║    Command 3  =  "Tab Key" (Fire Start Delay 100);
+║ Command 1 = "Alt Key" (Start Press, Toggle);
+║ Command 2 = "Shift Key" (Button Chord R1, Fire Start Delay t=50);
+║ Command 3 = "Tab Key" (Fire Start Delay 100);
+║ 		Command 1 	=			"Alt Key" (Start Press, Toggle);
+║ 		Command 2 	=			"Shift Key" (Button Chord R1, Fire Start Delay t=50);
+║ 		Command 3		=			"Tab Key" (Fire Start Delay 100);
 ║ }
 ║
-║	MIC button  =  "Light Bar Colour" (Turbo 60ms, Cycle Commands, Rainbow);
+║ MIC button = "Light Bar Colour" (Turbo 60ms, Cycle Commands, Rainbow);
+║	MIC button			=			"Light Bar Colour" (Turbo 60ms, Cycle Commands, Rainbow);
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                        ╔***DPad***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ ↑ {
+║ Command 1 = "Volume Up Key";
+║ Command 2 = "Volume Up Key" (Long Press t=225, Turbo, Repeat t=50);
 ║ 		Command 1 	= 	"Volume Up Key";
 ║ 		Command 2 	= 	"Volume Up Key" (Long Press t=225, Turbo, Repeat t=50);
 ║ }
 ║
 ║ ↓ {
+║ Command 1 = "Volume Down Key";
+║ Command 2 = "Volume Down Key" (Long Press t=225, Turbo, Repeat t=50);
 ║ 		Command 1 	= 	"Volume Down Key";
 ║ 		Command 2 	= 	"Volume Down Key" (Long Press t=225, Turbo, Repeat t=50);
 ║ }
 ║
 ║ ← {
+║ Command 1 = "Prev Key" (Double Press t=236);
+║ Command 2 = "Play Key";
 ║ 		Command 1 	= 	"Prev Key" (Double Press t=236);
 ║ 		Command 2 	= 	"Play Key";
 ║ }
 ║
 ║ → {
+║ Command 1 = "Next Key" (Double Press t=236);
 ║ 		Command 1 	= 	"Next Key" (Double Press t=236);
 ║ }
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
@@ -77,65 +105,54 @@
                                      ╔***Triggers***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ RIGHT TRIGGER BEHAVIOUR
+║ R2 Soft Pull = Left Mouse Click;
 ║ 	R2 Soft Pull 	= 	"Left Mouse Button";
 ║
 ║ LEFT TRIGGER BEHAVIOUR
+║ L2 Soft Pull = Right Mouse Click;
 ║ 	L2 Soft Pull 	= 	"Right Mouse Button";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                     ╔***Joysticks***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ RIGHT JOYSTICK BEHAVIOUR = "Joystick Mouse";
+║ R3 Click = "Mouse 5 Click";
 ║ R3 Click 				= 	"Mouse 5 Click";
 ║
 ║ LEFT JOYSTICK BEHAVIOUR = "Directional Pad";
-║ 	L↑ 			= 	"Up Arrow Key";
-║ 	L↓		 	= 	"Down Arrow Key";
-║ 	L← 			= 	"Left Arrow Key";
-║ 	L→			= 	"Right Arrow Key";
+║ L↑ = "Up Arrow Key";
+║ L↓ = "Down Arrow Key";
+║ L← = "Left Arrow Key";
+║ L→ = "Right Arrow Key";
+║ L3 Click = "Mouse 4 Click";
+║ 	L↑ 						= 	"Up Arrow Key";
+║ 	L↓					 	= 	"Down Arrow Key";
+║ 	L← 						= 	"Left Arrow Key";
+║ 	L→						= 	"Right Arrow Key";
 ║ 		L3 Click 		= 	"Mouse 4 Click";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                     ╔***Trackpads***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
+║ CENTER TRACKPAD BEHAVIOUR = "As Mouse";
+║ CENTER TRACKPAD CLICK = "Left Mouse Button";
+║ CENTER TRACKPAD CLICK = "Right Mouse Button" (Long Press);
 ║ CENTER TRACKPAD BEHAVIOUR = 	"As Mouse";
 ║ CENTER TRACKPAD CLICK 		= 	"Left Mouse Button";
 ║ CENTER TRACKPAD CLICK 		= 	"Right Mouse Button" (Long Press);
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                        ╔***Gyro***╗
-╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
-╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
-
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-║ ╔════════════════════════════════════════════════════════════════════════════════════╗ ║
-║ ║                                                                                    ║ ║
-║ ║         ╔═══.   ╔═╗   ╔═════════╗   .═.    .═.   ╔═════════╗                       ║ ║
-║ ║         ║ ║\ \  ║ ║   ║ ╔═══════╝    \ \  / /    ╚═══╗ ╔═══╝                       ║ ║
-║ ║         ║ ║ \ \ ║ ║   ║ ╚══╗          \ \/ /         ║ ║                           ║ ║
-║ ║         ║ ║  \ \║ ║   ║ ╔══╝           >  <          ║ ║                           ║ ║
-║ ║         ║ ║   \ \ ║   ║ ║             / /\ \         ║ ║                           ║ ║
-║ ║         ║ ║    \ \║   ║ ╚═══════╗    / /  \ \        ║ ║                           ║ ║
-║ ║         ╚═╝     '═'   ╚═════════╝   '═'    '═'       ╚═╝                           ║ ║
-║ ║                                                                                    ║ ║
-║ ║                   ╔════════. .    ╔═════════╗   ╔═════════╗   ╔═════════╗          ║ ║
-║ ║                   ║ ╔══════\  \   ║ ╔═════╗ ║   ║ ╔═════╗ ║   ║ ╔═══════╝          ║ ║
-║ ║                   ║ ║      ║  ║   ║ ║     ║ ║   ║ ║     ╚═╝   ║ ╚══╗               ║ ║
-║ ║                   ║ ╚═════'  /    ║ ╚═════╝ ║   ║ ║    ╔══╗   ║ ╔══╝               ║ ║
-║ ║                   ║ ╔══════'      ║ ║     ║ ║   ║ ║    ╚╗ ║   ║ ║                  ║ ║
-║ ║                   ║ ║             ║ ║     ║ ║   ║ ╚═════╝ ║   ║ ╚═══════╗          ║ ║
-║ ║                   ╚═╝             ╚═╝     ╚═╝   ╚═════════╝   ╚═════════╝          ║ ║
-║ ║                                                                                    ║ ║
-║ ╚════════════════════════════════════════════════════════════════════════════════════╝ ║
-╠════════════════════════════════════════════════════════════════════════════════════════╣
-║
-║                 ╔═<><><>═<><·><>═<><><>═X□∆O═<><><>═<><·><>═<><><>═╗
-║                 ║ Steam DualSense Edge Guide Button Desktop layout ║
-║                 ╚═<><><>═<><·><>═<><><>═X□∆O═<><><>═<><·><>═<><><>═╝
-║
+@@ -136,96 +136,98 @@
 ║                                   ╔***Buttons***╗
 ╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ FACE BUTTONS behaviour = "Button Pad";
+║║ X {
+║║ Command 1 = "Left Mouse Button";
+║║ Command 2 = "Enter Key" (Long Press);
+║║ O {
+║║ Command 1 = "Mouse 5 Button";
+║║ Command 2 = "Space Key" (Long Press);
 ║║ 	X {
 ║║ 		Command 1 	=	 	"Left Mouse Button";
 ║║ 		Command 2 	= 	"Enter Key" (Long Press);
@@ -145,6 +162,8 @@
 ║║ 		Command 2 	= 	"Space Key" (Long Press);
 ║║	}
 ║║ □ {
+║║ Command 1 = "Right Mouse Button";
+║║ Command 2 = "Show Keyboard" (Long Press);
 ║║ 		Command 1 	=	 	"Right Mouse Button";
 ║║ 		Command 2 	=		"Show Keyboard" (Long Press);
 ║║ }
@@ -154,10 +173,14 @@
 ║                                    ╔***BUMPERS***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ L1 {
+║║ Command 1 =  "Scroll Wheel Up" (Interruptible);
+║║ Command 2 = "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║║ 		Command 1 	=		"Scroll Wheel Up" (Interruptible);
 ║║ 		Command 2 	=	 	"Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║║ }
 ║║ L2{
+║║ Command 1 = "Scroll Wheel Down" (Interruptible);
+║║ Command 2 = "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
 ║║ 		Command 1 	=	 	"Scroll Wheel Down" (Interruptible);
 ║║ 		Command 2 	=	 	"Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
 ║║ }
@@ -165,14 +188,21 @@
 ║
 ║                                   ╔***BACK GRIPS***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
-║║ FnL 	= 	"Left Mouse Click";
-║║ FnR 	= 	"Right Mouse Click";
-║║ L🅱️ 	= 	"Shift";
-║║ R🅱️ 	= 	"CTRL";
+║║ FnL = "Left Mouse Click";
+║║ FnR = "Right Mouse Click";
+║║ L🅱️ = "Shift";
+║║ R🅱️ = "CTRL";
+║║ FnL 						= 	"Left Mouse Click";
+║║ FnR 						= 	"Right Mouse Click";
+║║ L🅱️ 						= 	"Shift";
+║║ R🅱️ 						= 	"CTRL";
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
 ║
 ║                                  ╔***MENU BUTTONS***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
+║║ SHARE  = "Tab Key";
+║║ OPTIONS = "Escape Key";
+║║ MIC button = "Take Screenshot";
 ║║ SHARE  				= 	"Tab Key";
 ║║ OPTIONS 				= 	"Escape Key";
 ║║ MIC button			= 	"Take Screenshot";
@@ -181,21 +211,29 @@
 ║                                      ╔***DPad***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ ↑ {
+║║ Command 1 = "Arrow Up Key";
+║║ Command 2 = "Arrow Up Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ 		Command 1		=		"Arrow Up Key";
 ║║ 		Command 2		=		"Arrow Up Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ }
 ║║
 ║║ ↓ {
+║║ Command 1 = "Arrow Down Key";
+║║ Command 2 = "Arrow Down Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ 		Command 1		=	 "Arrow Down Key";
 ║║ 		Command 2 	=	 "Arrow Down Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ }
 ║║
 ║║ ← {
+║║ Command 1 = "Arrow Left Key";
+║║ Command 2 = "Arrow Left Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ 		Command 1 	=		"Arrow Left Key";
 ║║ 		Command 2		=		"Arrow Left Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ }
 ║║
 ║║ → {
+║║ Command 1 = "Arrow Right Key";
+║║ Command 2 = "Arrow Right Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ 		Command 1		=		"Arrow Right Key";
 ║║ 		Command 2 	=		"Arrow Right Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║}
@@ -204,27 +242,38 @@
 ║                                    ╔***Triggers***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ RIGHT TRIGGER BEHAVIOUR
+║║ R2 Soft Pull = Left Mouse Click;
 ║║ R2 Soft Pull 	=			Left Mouse Click;
 ║║
 ║║ LEFT TRIGGER BEHAVIOUR
+║║ L2 Soft Pull = Right Mouse Click;
 ║║ 	L2 Soft Pull 	= 		Right Mouse Click;
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
 ║
 ║                                   ╔***Joysticks***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ RIGHT JOYSTICK BEHAVIOUR = "Joystick Mouse";
+║║ R3 Click = "Mouse 5 Click";
 ║║ 		R3 Click			=				"Mouse 5 Click";
 ║║
 ║║ LEFT JOYSTICK BEHAVIOUR = "Directional Pad";
-║║ 	L↑ 	= 		"Up Arrow Key";
-║║ 	L↓	= 		"Down Arrow Key";
-║║ 	L← 	= 		"Left Arrow Key";
-║║ 	L→  = 		"Right Arrow Key";
+║║ L↑ = "Up Arrow Key";
+║║ L↓ = "Down Arrow Key";
+║║ L← = "Left Arrow Key";
+║║ L→ = "Right Arrow Key";
+║║ L3 Click = "Mouse 4 Click";
+║║ 	L↑ 						= 		"Up Arrow Key";
+║║ 	L↓						= 		"Down Arrow Key";
+║║ 	L← 						= 		"Left Arrow Key";
+║║ 	L→  					= 		"Right Arrow Key";
 ║║ 		L3 Click 		=			"Mouse 4 Click";
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
 ║
 ║                                   ╔***Trackpads***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
+║║CENTER TRACKPAD BEHAVIOUR = "As Mouse";
+║║CENTER TRACKPAD CLICK = "Left Mouse Button";
+║║CENTER TRACKPAD CLICK = "Right Mouse Button" (Long Press);
 ║║ CENTER TRACKPAD BEHAVIOUR	= 	"As Mouse";
 ║║ CENTER TRACKPAD CLICK 			= 	"Left Mouse Button";
 ║║ CENTER TRACKPAD CLICK 			= 	"Right Mouse Button" (Long Press);
