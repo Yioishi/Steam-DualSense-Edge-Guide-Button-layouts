@@ -39,17 +39,17 @@
                                    ╔***MENU BUTTONS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ SHARE {
-║ 		Command 1		=			"Windows Key" (Start Press, Toggle);
-║ 		Command 2		=			"Down Arrow Key" (Fire Start Delay t=50);
+║    Command 1  =  "Windows Key" (Start Press, Toggle);
+║    Command 2  =  "Down Arrow Key" (Fire Start Delay t=50);
 ║ }
 ║
 ║ OPTIONS {
-║ 		Command 1 	=			"Alt Key" (Start Press, Toggle);
-║ 		Command 2 	=			"Shift Key" (Button Chord R1, Fire Start Delay t=50);
-║ 		Command 3		=			"Tab Key" (Fire Start Delay 100);
+║    Command 1  =  "Alt Key" (Start Press, Toggle);
+║    Command 2  =  "Shift Key" (Button Chord R1, Fire Start Delay t=50);
+║    Command 3  =  "Tab Key" (Fire Start Delay 100);
 ║ }
 ║
-║	MIC button			=			"Light Bar Colour" (Turbo 60ms, Cycle Commands, Rainbow);
+║	MIC button  =  "Light Bar Colour" (Turbo 60ms, Cycle Commands, Rainbow);
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                        ╔***DPad***╗
