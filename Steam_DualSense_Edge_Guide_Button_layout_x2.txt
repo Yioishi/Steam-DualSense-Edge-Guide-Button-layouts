@@ -19,12 +19,12 @@
                                      ╔***BUMPERS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ L1 {
-║ 		Command 1 	=  "Scroll Wheel Up" (Interruptible);
-║ 		Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
+║    Command 1 	=  "Scroll Wheel Up" (Interruptible);
+║    Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ║ L2{
-║ 		Command 1 	= "Scroll Wheel Down" (Interruptible);
-║ 		Command 2 	= "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
+║    Command 1 	= "Scroll Wheel Down" (Interruptible);
+║    Command 2 	= "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
