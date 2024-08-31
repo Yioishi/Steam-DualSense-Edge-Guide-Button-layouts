@@ -13,7 +13,7 @@
 ║ 	Command 1	=	"Right Mouse Button";
 ║ 	Command 2	=	"Show Keyboard" (Long Press t=300);
 ║ }
-║ ∆	          =	"Escape Key";
+║ ∆	            =	"Escape Key";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                      ╔***BUMPERS***╗
