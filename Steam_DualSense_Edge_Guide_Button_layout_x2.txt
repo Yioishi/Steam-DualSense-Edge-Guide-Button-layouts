@@ -6,25 +6,25 @@
                                       ╔***Buttons***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ FACE BUTTONS behaviour = "Button Pad";
-║ 	X 	= 	"Left Mouse Button";
-║ 	O 	= 	"Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
-║  	   ↳ O    =        "D Key";
-║ 	□ {
-║ 		Command 1 =	"Right Mouse Button";
-║ 		Command 2 =	"Show Keyboard" (Long Press t=300);
+║ X 	= 	"Left Mouse Button";
+║ O 	= 	"Windows Key" (Fire End Delay t=25, Toggle, Interruptible);
+║    ↳ O    =        "D Key";
+║ □ {
+║ 	Command 1	=	"Right Mouse Button";
+║ 	Command 2	=	"Show Keyboard" (Long Press t=300);
 ║ }
-║ 	∆ 						= 	"Escape Key";
+║ ∆	=	"Escape Key";
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
                                      ╔***BUMPERS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ L1 {
-║ 		Command 1 	=  "Scroll Wheel Up" (Interruptible);
-║ 		Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
+║ 	Command 1 	=  "Scroll Wheel Up" (Interruptible);
+║ 	Command 2 	= "Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ║ L2{
-║ 		Command 1 	= "Scroll Wheel Down" (Interruptible);
-║ 		Command 2 	= "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
+║ 	Command 1 	= "Scroll Wheel Down" (Interruptible);
+║ 	Command 2 	= "Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
 ║ }
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
@@ -39,14 +39,14 @@
                                    ╔***MENU BUTTONS***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ SHARE {
-║ 		Command 1	=	"Windows Key" (Start Press, Toggle);
-║ 		Command 2	=	"Down Arrow Key" (Fire Start Delay t=50);
+║ 	Command 1	=	"Windows Key" (Start Press, Toggle);
+║ 	Command 2	=	"Down Arrow Key" (Fire Start Delay t=50);
 ║ }
 ║
 ║ OPTIONS {
-║ 		Command 1 	=	"Alt Key" (Start Press, Toggle);
-║ 		Command 2 	=	"Shift Key" (Button Chord R1, Fire Start Delay t=50);
-║ 		Command 3	=	"Tab Key" (Fire Start Delay 100);
+║ 	Command 1 	=	"Alt Key" (Start Press, Toggle);
+║ 	Command 2 	=	"Shift Key" (Button Chord R1, Fire Start Delay t=50);
+║ 	Command 3	=	"Tab Key" (Fire Start Delay 100);
 ║ }
 ║
 ║	MIC button	=	"Light Bar Colour" (Turbo 60ms, Cycle Commands, Rainbow);
@@ -55,22 +55,22 @@
                                        ╔***DPad***╗
 ╔<><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><>╗
 ║ ↑ {
-║		Command 1 	= 	"Volume Up Key";
-║ 		Command 2 	= 	"Volume Up Key" (Long Press t=225, Turbo, Repeat t=50);
+║	Command 1 	= 	"Volume Up Key";
+║ 	Command 2 	= 	"Volume Up Key" (Long Press t=225, Turbo, Repeat t=50);
 ║ }
 ║
 ║ ↓ {
-║ 		Command 1 	= 	"Volume Down Key";
-║ 		Command 2 	= 	"Volume Down Key" (Long Press t=225, Turbo, Repeat t=50);
+║ 	Command 1 	= 	"Volume Down Key";
+║ 	Command 2 	= 	"Volume Down Key" (Long Press t=225, Turbo, Repeat t=50);
 ║ }
 ║
 ║ ← {
-║ 		Command 1 	= 	"Prev Key" (Double Press t=236);
-║ 		Command 2 	= 	"Play Key";
+║ 	Command 1 	= 	"Prev Key" (Double Press t=236);
+║ 	Command 2 	= 	"Play Key";
 ║ }
 ║
 ║ → {
-║ 		Command 1 	= 	"Next Key" (Double Press t=236);
+║ 	Command 1 	= 	"Next Key" (Double Press t=236);
 ║ }
 ╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝
 
@@ -137,16 +137,16 @@
 ╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ FACE BUTTONS behaviour = "Button Pad";
 ║║ X {
-║║ 		Command 1 	= 	"Left Mouse Button";
-║║ 		Command 2 	= 	"Enter Key" (Long Press);
+║║ 	Command 1 	= 	"Left Mouse Button";
+║║ 	Command 2 	= 	"Enter Key" (Long Press);
 ║║ }
 ║║ O {
-║║ 		Command 1 	= 	"Mouse 5 Button";
-║║ 		Command 2 	= 	"Space Key" (Long Press);
+║║ 	Command 1 	= 	"Mouse 5 Button";
+║║ 	Command 2 	= 	"Space Key" (Long Press);
 ║║ }
 ║║ □ {
-║║ 		Command 1 	= 	"Right Mouse Button";
-║║ 		Command 2 	=	"Show Keyboard" (Long Press);
+║║ 	Command 1 	= 	"Right Mouse Button";
+║║ 	Command 2 	=	"Show Keyboard" (Long Press);
 ║║ }
 ║║ ∆ = "Middle Mouse Button";
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
@@ -154,12 +154,12 @@
 ║                                    ╔***BUMPERS***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ L1 {
-║║ 		Command 1 	=	"Scroll Wheel Up" (Interruptible);
-║║ 		Command 2 	= 	"Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
+║║ 	Command 1 	=	"Scroll Wheel Up" (Interruptible);
+║║ 	Command 2 	= 	"Scroll Wheel Up" (Long Press t=300, Turbo, Repeat t=100);
 ║║ }
 ║║ L2{
-║║ 		Command 1 	=	"Scroll Wheel Down" (Interruptible);
-║║ 		Command 2 	=	"Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
+║║ 	Command 1 	=	"Scroll Wheel Down" (Interruptible);
+║║ 	Command 2 	=	"Scroll Wheel Down" (Long Press t=300, Turbo, Repeat t=100);
 ║║ }
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
 ║
@@ -181,23 +181,23 @@
 ║                                      ╔***DPad***╗
 ║╔><><>═<><><>═<><><>═<><><>═<><><>═<><><>═X□∆O═<><><>═<><><>═<><><>═<><><>═<><><>═<><><╗║
 ║║ ↑ {
-║║		Command 1	=	"Arrow Up Key";
-║║ 		Command 2	=	"Arrow Up Key" (Long Press t=225, Turbo, Repeat t=100);
+║║	Command 1	=	"Arrow Up Key";
+║║ 	Command 2	=	"Arrow Up Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ }
 ║║
 ║║ ↓ {
-║║ 		Command 1	=	 "Arrow Down Key";
-║║ 		Command 2 	= 	"Arrow Down Key" (Long Press t=225, Turbo, Repeat t=100);
+║║ 	Command 1	=	 "Arrow Down Key";
+║║ 	Command 2 	= 	"Arrow Down Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ }
 ║║
 ║║ ← {
-║║ 		Command 1 	=	"Arrow Left Key";
-║║ 		Command 2	=	"Arrow Left Key" (Long Press t=225, Turbo, Repeat t=100);
+║║ 	Command 1 	=	"Arrow Left Key";
+║║ 	Command 2	=	"Arrow Left Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║ }
 ║║
 ║║ → {
-║║ 		Command 1	=	"Arrow Right Key";
-║║ 		Command 2 	=	"Arrow Right Key" (Long Press t=225, Turbo, Repeat t=100);
+║║ 	Command 1	=	"Arrow Right Key";
+║║ 	Command 2 	=	"Arrow Right Key" (Long Press t=225, Turbo, Repeat t=100);
 ║║}
 ║╚■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□╝║
 ║
